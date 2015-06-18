@@ -8,3 +8,5 @@ Easy to use, easy to remember, at least easier than the mountful iOS functions e
 [SysUtils isLandscape]
 
 [SysUtils isiOS: 8.0]
+
+etc.
